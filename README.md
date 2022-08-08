@@ -11,7 +11,7 @@ Security Engineer
 Here are some ideas to get you started:
 -->
 
-Coming from a non-traditional background I have been in the field of Cyber Security for 5 years. Mainly working in Operations and Detection & Response. Now focusing on Cloud based thread detections. 
+Coming from a non-traditional background I have been in the field of Cyber Security for 5 years. Mainly working in Operations and Detection & Response. Now focusing on Cloud based threat detections. 
 
 
 - 🔭 I’m currently working on Detection and Threat Hunting 
