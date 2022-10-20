@@ -16,7 +16,7 @@ Coming from a non-traditional background I have been in the field of Cyber Secur
 
 - 🔭 I’m currently working on Detection and Threat Hunting 
 - 🌱 I’m currently learning automation 
-- 👯 I’m looking to collaborate on creating learning resources and giving back to the community
+- 🤝🏽 I’m looking to collaborate on creating learning resources and giving back to the community
 
 
 <!--
