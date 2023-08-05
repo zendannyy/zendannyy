@@ -41,7 +41,7 @@ Coming from a non-traditional background I have been in the field of Cyber Secur
 
 <!-- <a href="http://www.github.com/zendannyy"><img src="https://github-readme-stats.vercel.app/api?username=zendannyy&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="zendannyy's GitHub stats" /></a> -->
 
-[![zendannyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zendanny&show=reviews)](https://github.com/zendanny/github-readme-stats)
+[![zendannyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zendanny&show=reviews&icons=true)](https://github.com/zendanny/github-readme-stats)
 
 <b>Languages & Tools</b>
 
